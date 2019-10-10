@@ -10,5 +10,9 @@ class Book
     @title
   end
   
+  def turn_page
+    
+  end
+  
 end
 
